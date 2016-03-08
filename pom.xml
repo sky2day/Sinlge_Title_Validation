@@ -3,7 +3,7 @@
 
 	<groupId>core</groupId>
 	<artifactId>Title_Validation</artifactId>
-	<version>1.0</version>
+	<version>${build.version}</version>
 	<packaging>jar</packaging>
 
 	<name>Title_Validation</name>
